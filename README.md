@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-<img  alt="amjad" width="22px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href='https://www.linkedin.com/in/amjadhabbabeh/'>LinkedIn</a>
+[<img  align='left' alt="amjad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/amjadhabbabeh/
 
 <br />
 
