@@ -12,6 +12,6 @@
 
 ### Connect with me:
 
-[https://www.linkedin.com/in/amjadhabbabeh/]
+<a href='https://www.linkedin.com/in/amjadhabbabeh/'></a>
 
 <br />
