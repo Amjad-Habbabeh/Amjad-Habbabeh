@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there I am Amjad 👋
 
-<!--
-**Amjad-Habbabeh/Amjad-Habbabeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Husband, Musician, and Developer!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying at HackYourFeature program
+- 🌱 I’m currently learning MERN-E-commerce
+- 👯 I’m looking to collaborate on frontend web develpoment
+- 📫 How to reach me: amjad.habbabeh@gmail.com
+- 🥅 2021 Goals: find job as junior developer.
+- ⚡ Fun fact: I change my career path from music to web development ..I paly ♫♩
+  ♬♪🎻 Cello & Oud -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Amjad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/amjadhabbabeh/]
+
+<br />
