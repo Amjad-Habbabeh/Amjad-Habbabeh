@@ -6,7 +6,7 @@
 - 🌱 I’m currently mastering React 
 - 👯 I’m looking to collaborate on frontend web develpoment
 - 📫 How to reach me: amjad.habbabeh@gmail.com
-- 🥅 2024 Goals: find job as Medior developer.
+- 🥅 2024 Goals: learn React native
 - ⚡ Fun fact: I change my career path from music to web development ..I paly ♫♩
   ♬♪🎻 Cello & Oud -->
 
