@@ -2,11 +2,11 @@
 
 ## I'm a Husband, Musician, and Developer!!
 
-- 🔭 I’m currently studying at HackYourFeature program
-- 🌱 I’m currently learning MERN-E-commerce
+- 🔭 I’m currently working at Loonsalarissoftware
+- 🌱 I’m currently mastering React 
 - 👯 I’m looking to collaborate on frontend web develpoment
 - 📫 How to reach me: amjad.habbabeh@gmail.com
-- 🥅 2021 Goals: find job as junior developer.
+- 🥅 2024 Goals: find job as Medior developer.
 - ⚡ Fun fact: I change my career path from music to web development ..I paly ♫♩
   ♬♪🎻 Cello & Oud -->
 
@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<div style="display: flex" justify-content="space-between" width="80%">
+<div style="display: flex" justify-content="space-between" width="90%" background-color="#fff">
 <img style="display: inline" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="display: inline" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -40,7 +40,7 @@
 
 <img style="display: inline" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img style="display: inline" style="display: inline" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img style="display: inline" style="display: inline" alt="GitHub" width="26px" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" />
 
-<img style="display: inline" style="display: inline" alt="Redux" width="26px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png" />
+<img style="display: inline" style="display: inline" alt="Redux" width="52px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png" />
 </div>
