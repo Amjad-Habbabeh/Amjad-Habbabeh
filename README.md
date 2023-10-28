@@ -40,7 +40,7 @@
 
 <img style="display: inline" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img style="display: inline" style="display: inline" alt="GitHub" width="26px" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" />
+<img style="display: inline" style="display: inline ;inline-margin: '2px'" alt="GitHub" width="26px" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" />
 
-<img style="display: inline" style="display: inline" alt="Redux" width="52px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png" />
+<img style="display: inline" style="display: inline" alt="Redux" width="58px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png" />
 </div>
