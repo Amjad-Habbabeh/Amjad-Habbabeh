@@ -1,6 +1,6 @@
 ### Hi there I am Amjad 👋
 
-## I'm a Husband, Musician, and Developer!!
+## I'm a Husband, Musician, Father and Developer!!
 
 - 🔭 I’m currently working at Loonsalarissoftware
 - 🌱 I’m currently mastering React 
