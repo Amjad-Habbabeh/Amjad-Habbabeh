@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img  align='left' alt="amjad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img  align='left' alt="amjad" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/amjadhabbabeh/
 
